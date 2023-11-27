@@ -7,4 +7,4 @@
 
 react<br>
 react-router-dom<br>
-styled-components(CSS 라이브러라)<br>
+styled-components(CSS 라이브러리)<br>
