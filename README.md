@@ -5,6 +5,6 @@
 
 # 사용된 NPM 패키지
 
-react
-react-router-dom
-styled-components
+react<br>
+react-router-dom<br>
+styled-components<br>
