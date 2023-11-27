@@ -1,4 +1,10 @@
 # Naetraffic-2PLAY-New-
 
-Naetraffic 2PLAY 레포지토리 입니다.
-본 레포지토리는 Node.js와 React 라이브러리를 사용합니다.
+리메이크 Naetraffic 2PLAY 레포지토리 입니다.
+
+
+# 사용된 NPM 패키지
+
+react
+react-router-dom
+styled-components
